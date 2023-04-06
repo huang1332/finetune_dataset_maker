@@ -1,7 +1,7 @@
 # finetune_dataset_maker
 介绍视频在https://www.bilibili.com/video/BV1mg4y1g718/
 
-配环境请使用这位的整合包https://www.bilibili.com/video/BV1Qg4y1g7Ky
+懒得配环境请使用这位的整合包https://www.bilibili.com/video/BV1Qg4y1g7Ky
 
 pip安装最新版的streamlit和openai即可运行
 
