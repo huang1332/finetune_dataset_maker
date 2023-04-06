@@ -22,3 +22,6 @@ https://github.com/ssbuild/chatglm_finetuning
 保存全部回答，可以将回答序列化写入本地文件以便下次读取。
 
 导出Json的话，会将所有已保存回答写到本地而未保存的回答就会忽略。
+
+用代理的同学记得按照左边的端口号修改代码，不用代理请删掉这两行
+![image](https://user-images.githubusercontent.com/38836674/230424529-977d454f-8faa-416f-b2be-ad2e24d2a9f7.png)
