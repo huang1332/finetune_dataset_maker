@@ -11,6 +11,8 @@ https://github.com/hscspring/hcgf
 
 https://github.com/mymusise/ChatGLM-Tuning
 
+https://github.com/ssbuild/chatglm_finetuning
+
 主要功能是读取用户写在txt的问题，并通过GPT生成回答，或者用户自行撰写回答，然后保存为微调需要的json文件
 
 首先打开网页，我们可以选择要回答的问题，选定之后填写答案，也可以选择使用GPT的api来流式生成回答，确认并进入下一个问题
