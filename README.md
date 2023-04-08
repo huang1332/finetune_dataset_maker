@@ -3,6 +3,8 @@
 
 懒得配环境请使用这位的整合包https://www.bilibili.com/video/BV1Qg4y1g7Ky
 
+ChatGLM一站式微调整合包https://www.bilibili.com/video/BV1P24y1L7Ge
+
 pip安装最新版的streamlit和openai即可运行
 
 支持以下ChatGLM微调项目的格式
