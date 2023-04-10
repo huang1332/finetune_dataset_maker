@@ -27,3 +27,6 @@ https://github.com/ssbuild/chatglm_finetuning
 
 用代理的同学记得按照左边的端口号修改代码，不用代理请删掉这两行
 ![image](https://user-images.githubusercontent.com/38836674/230424529-977d454f-8faa-416f-b2be-ad2e24d2a9f7.png)
+
+改这里切换输出json的格式
+![image](https://user-images.githubusercontent.com/38836674/230841273-72e61f2e-450a-4979-94d6-efeaed16dca0.png)
