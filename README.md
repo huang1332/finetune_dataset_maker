@@ -5,7 +5,9 @@
 
 ChatGLM一站式微调整合包https://www.bilibili.com/video/BV1P24y1L7Ge
 
-pip安装最新版的streamlit和openai即可运行
+pip安装最新版的streamlit和openai，执行这一句即可运行（port可以随便改）
+
+streamlit run dataset.py --server.port 2323
 
 支持以下ChatGLM微调项目的格式
 
