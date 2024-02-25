@@ -1,4 +1,7 @@
 # finetune_dataset_maker
+
+注：新版的openai包改了api接口的用法，要使用现有代码请安装旧版，pip install openai==0.28.0
+
 介绍视频在https://www.bilibili.com/video/BV1mg4y1g718/
 
 懒得配环境请使用这位的整合包https://www.bilibili.com/video/BV1Qg4y1g7Ky
